@@ -17,7 +17,7 @@ import java.util.*
     var miComp=Computer2(Cpu2(),Mouse2(),Screen2())
     println(miComp.toString())
     miComp.memoriaRam=16
-    println("${miComp.memoriaRam}")
+    println("${miComp.memoriaRam} GB de RAM")
     println("Fin de la cita")
 /*      println("Esto es una app")
         var mouseA=Mouse()
