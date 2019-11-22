@@ -19,6 +19,11 @@ import java.util.*
     miComp.memoriaRam=16
     println("${miComp.memoriaRam} GB de RAM")
     println("Fin de la cita")
+    //Fin del programa
+
+
+
+
 /*      println("Esto es una app")
         var mouseA=Mouse()
         println("MouseA es "+mouseA.type)
